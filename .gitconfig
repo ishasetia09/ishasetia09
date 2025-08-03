@@ -1,0 +1,10 @@
+[user]
+	name = Isha Setia
+	email = 119729957+ishasetia09@users.noreply.github.com
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[credential]
+	helper = cache

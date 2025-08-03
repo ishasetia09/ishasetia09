@@ -1,0 +1,59 @@
+db.users.find
+use mydatabase
+show collections
+show dbs
+db.users.find
+use mydatabase
+show collections
+show dbs
+db.inventories.find()
+db.users.find()
+use mydatabase
+show collections
+show dbs
+db.inventories.find()
+show collections
+db.inventory.find()
+db.users.find()
+use mydatabase
+show collections
+show dbs
+cls
+db.users.find()
+clear
+db.users.find()
+db.users.findA()
+db.users.findAll()
+use mydatabase
+show dbs
+cls
+clear
+users.findOne()
+users
+cls
+clear
+mongosh
+cls
+users.find()
+show inventories
+show users
+show collections
+users.find()
+users.findAll()
+users.find()
+show collections
+cls
+use mydatabase
+show dbs
+cls
+clear
+db.show()
+cs
+ls
+cls
+db.find()
+show database
+show db
+show collections
+use mydatabase
+show dbs
